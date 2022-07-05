@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = albanian
+religion = catholic
+technology_group = eastern
+capital = 1766 # kosovo
+
+1443.3.4 = {
+	monarch = {
+		name = "Landër"
+		dynasty = "Ymeri"
+		birth_date = 14016.4.2		
+		adm = 4
+		dip = 3
+		mil = 4
+		leader = {	name = "Ymeri"            	type = general	fire = 4	shock = 4	manuever = 4	siege = 0}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}

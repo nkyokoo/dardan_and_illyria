@@ -1,0 +1,10 @@
+government = constitutional_republic
+add_government_reform = autocracy_reform
+government_rank = 3
+primary_culture = albanian
+religion = catholic
+technology_group = eastern
+capital = 4175 # Lezhe
+
+
+1750.1.1 = { set_legacy_government = constitutional_republic }
